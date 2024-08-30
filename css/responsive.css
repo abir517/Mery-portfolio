@@ -1,0 +1,132 @@
+@media(max-width:575px){
+
+}
+
+@media(min-width:576px) and (max-width:767px){
+      .menu-bg ul li{
+        padding: 20px 0;
+      }
+      .banner-text h1 {
+        font-size: 64px;
+      }
+      .banner-text h2 {
+        font-size: 39px;
+        margin-top: 64px;
+      }
+      .banner-text{
+        text-align: center;
+      }
+
+      
+      .menu-bg button{
+        border: 2px solid red;
+        color: red;
+       
+      }
+      .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 transparent !important;
+      }
+
+      .container, .container-sm {
+        max-width: 388px;
+      }
+      .ban-btn a {
+        padding: 18px 36px;
+        border-radius: 5px;
+        color: #222;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 70px;
+        margin-left: -31px;
+        border-radius: 5px;
+      }
+         
+      .cv a {
+        line-height: 19px;
+        margin-left: 40px;
+      }
+
+      }
+      
+    
+
+
+@media(min-width:768px) and (max-width:991px){
+  .menu-bg button{
+    border: 2px solid red;
+    color: red;
+   
+  }
+
+  .container, .container-sm {
+    max-width: 388px;
+  }
+
+  .ban-btn a {
+   
+    margin-left: -5px;
+    
+  }
+  .menu-bg ul li{
+    padding: 20px 0;
+  }
+  .cv a {
+    line-height: 19px;
+    margin-left: 40px;
+  }
+
+
+.navbar-toggler:focus {
+  text-decoration: none;
+  outline: 0;
+  box-shadow: 0 0 0 transparent !important;
+}
+}
+@media(min-width:992px) and (max-width:1199px){
+  .banner-text h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 110px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  
+   
+} 
+@media(min-width:1200px) and (max-width:1399px){
+  .cv a {
+   
+    line-height: 37px;
+    margin-left: -128px;
+   
+  }
+  .menu-bg a img {
+    margin-left: 64px;
+  }
+  .ban-btn a {
+    margin-left: 76px;
+  }
+  .banner-text h2 {
+    text-align: center;
+  }
+  .banner-text h1 {
+    margin-left: 63px;
+  }
+  .banner-text p {
+    margin-left: 66px;
+  }
+}
+
+@media(min-width:1400px){
+  .cv a {
+   
+    line-height: 37px;
+    margin-left: -128px;
+   
+  }
+}
+
